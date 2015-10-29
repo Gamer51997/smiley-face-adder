@@ -1,0 +1,10 @@
+/* General page */
+body {width:60%;text-align:center;margin:auto;font-family:monospace;}
+.footer {border-top:1px solid #BCBCBC;color:#BCBCBC;padding-top:15px;}
+a { color:#BCBCBC; text-decoration:none;}
+a:hover{text-decoration:underline;}
+
+/* DOM stuff */
+input {font-family:monospace;text-align:center;}
+#lol2 {color:red;font-size:2em;font-weight:bolder;}
+button {font-family:monospace;}
